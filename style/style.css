@@ -630,9 +630,10 @@
 }
 .top__subtitle {
   font-weight: 500;
-  font-size: 27px;
+  font-size: 20px;
+  line-height: 150%;
   color: #fff;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
 }
 .top__subtitle--wedding {
   font-weight: 600;
@@ -659,9 +660,10 @@
   color: #c09b78;
 }
 .top__text {
-  font-weight: 700;
+  font-weight: 500;
   max-width: 950px;
-  font-size: 27px;
+  font-size: 20px;
+  line-height: 150%;
   color: #fff;
 }
 .top__call {

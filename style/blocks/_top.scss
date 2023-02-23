@@ -17,9 +17,10 @@
 
   &__subtitle {
     font-weight: 500;
-    font-size: 27px;
+    font-size: 20px;
+    line-height: 150%;
     color: #fff;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 
     &--wedding {
       font-weight: 600;
@@ -51,9 +52,10 @@
   }
 
   &__text {
-    font-weight: 700;
+    font-weight: 500;
     max-width: 950px;
-    font-size: 27px;
+    font-size: 20px;
+    line-height: 150%;
     color: #fff;
   }
   
